@@ -202,10 +202,8 @@ SkipNight comes with several configuration options to tailor the plugin’s beha
 
 ## Notes
 
-- The plugin automatically migrates and updates old configs to the latest version.
 - Admin permission is required for instant night skipping and toggling custom cycles.
 - All chat and UI messages are fully customizable in the config.
 - UI is automatically destroyed at daybreak or when voting ends.
 - Voting can be disabled entirely with EnableNightSkipVoting.
 - The plugin is performance optimized and only checks night status every 30 seconds.
-- No legacy permissions or config migration is required for this plugin.
